@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Deforestación",
+    "author": "?",
+    "description": "Se entiende por ello la tala indiscriminada de bosques y áreas verdes para emplear su madera en diversas industrias (papelera, maderera, etc.) o para destinar el suelo a las actividades agrícolas o ganaderas. Este proceso, que inició la humanidad prehistórica a su manera, jamás se dio a un ritmo tan feroz como en la actualidad, tanto así que se hace imperiosa la resiembra de bosques para crear un contrapeso. La ausencia de árboles deteriora el suelo, lo deja expuesto a la erosión, disminuye la cantidad de oxígeno en el mundo y aumenta la de carbono atmosférico, contribuyendo a aumentar la temperatura promedio de nuestro planeta."
+  },
+  
+  {
+    "title": "Contaminación",
+    "author": "?",
+    "description": "Se refiere a la adulteración de agua, tierra o aire mediante el añadido de sustancias químicamente reactivas, capaces de destruir ecosistemas, hacer el agua inutilizable o generar enfermedades tanto en seres humanos como en otras formas de vida. Este problema es de los más graves, pues acarrea fenómenos también destructivos como la lluvia ácida (lluvia contaminada), la acumulación tóxica del plástico o la acidificación de los mares, por ejemplo. Todo ello se traduce en cambios químicos demasiado veloces, que no dan margen a la vida a adaptarse a ellos, o a remediarlos a su manera."
+  },
+
+   {
+    "title": "Calentamiento Global",
+    "author": "?",
+    "description": "El planeta se está volviendo cada vez más caliente, a un ritmo mucho más rápido del que tuvo en épocas pasadas, y el lógico responsable de ello es el ser humano. La mayoría de las actividades industriales, desde la ganadería hasta la quema de combustibles fósiles, inundan la atmósfera con derivados del carbono (monóxido de carbono o dióxido de carbono), que no sólo empobrecen la calidad del aire, sino que permanecen en la atmósfera impidiendo la normal liberación del calor, y generando así un efecto invernadero que está ya derritiendo las nieves perpetuas de los polos y aumentando el nivel de las aguas. Esto se traduce en cambios climáticos de intensidad, creación de nuevos desiertos, inundaciones y la destrucción del equilibrio meteorológico del planeta."
+  }
+]
